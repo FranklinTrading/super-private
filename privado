@@ -150,6 +150,9 @@ Section:NewButton("script serpent hub" , "script de paga gratis", function()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/FranklinTrading/xdd/main/rgrgrehgergerh"))()
 end)
 
+Section:NewButton("Slay Hub" , "script de paga gratis", function()
+loadstring(game:HttpGet("https://recscript.glitch.me/poptrade.txt"))()
+end)
 
 local Tab = Window:NewTab("divertido") local Section = Tab:NewSection("opciones dievertidas")
 
